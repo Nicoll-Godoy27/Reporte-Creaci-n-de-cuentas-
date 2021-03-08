@@ -1,0 +1,83 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+
+
+ 
+\title{\textbf{REPORTE
+CREACIÓN DE LAS CUENTAS GitHub y Overleaf "LaTex"}} 
+\author{Dayan Nicoll Ocampo Godoy \ \\    nicollgodoy27@gmail.com \\ \  }
+\date{Marzo 2021. }
+
+
+\begin{document}
+
+\maketitle
+\textit{\textbf{
+\section{Resumen}}}
+  Trabajaremos con la plataforma LaTex, la cual nos ayuda a realizar un reporte, texto de investigación, etc. Así mismo nos ayuda a convertirlos en PDF. 
+ Trabajamos con la plataforma GitHub y allí podremos crear nuestro propio perfil para poder compartir nuestros trabajos de manera pública.
+
+\textit{\textbf{
+\section{Objetivos}}}
+ 
+
+\begin{itemize}
+\item {\it Conocer otro medio de realizar un texto informativo.} 
+\item {\it Conocer otras herramientas de interacción.} 
+\item {\it Realizar nuevos proyectos por medio de estas herramientas.} 
+ \textit{\textbf{
+\end{itemize}
+\section {Descripción del reporte}}}
+
+\section {Primer registro: overleaf}
+ Para poder crear cuenta en overleaf, comenzamos con la busqueda en nuesto navegador de preferencia. Una vez estemos en la página principal damos click en "registro" y llenamos los campos que nos solicita, como lo es: correo electronico y contraseña. Al finalizar este proceso podemos disfrutar de nuestra cuenta personal en overleaf LaTex y asi mismo podemos comenzar a realizar escritos, informes o investigaaciones de nuestro gusto. 
+ 
+\break
+\includegraphics[scale=0.8]{Captura latex 1 (2).JPG} 
+
+{Paso N° 1}
+
+\break
+\includegraphics[scale=0.8]{Captura latex 2.JPG} 
+
+{Paso N° 2}
+
+
+
+\section {Segundo registro:  GitHub}
+Para crear la cuenta de GitHub realizamos el mismo procedimiento; comenzamos con la busqueda en nuesto navegador de preferencia. Una vez estemos en la página principal damos click en "registro o unete" y llenamos los campos que nos solicita, como lo son: nombre de usuario, dirección de correo electrónico y contraseña. Una vez llenamos los campo solicitados, seguimos con el siguiente paso que es seleccionar una serie de fotografias que solicita el sistema para finalizar el proceso de registro. 
+
+
+\break
+\includegraphics[scale=0.8]{GitHub paso 1.JPG} 
+
+{Paso N° 1}
+
+
+\break
+\includegraphics[scale=0.8]{GitHub paso 2.JPG} 
+
+{Paso N° 2}
+
+
+\section{Conclusiones}
+\begin{itemize}
+\item {\it Podemos concluir que siguiendo los pasos en orden, podemos llegar a un registro satisfactorio.} 
+\item {\it  Se puede explorar varias cosas en cada página.} 
+\item {\it  Pude concluir una nueva forma de realizar  escritos o trabajos de investigaciones} 
+
+
+
+\end{itemize}
+\section{Bibliografía}
+
+
+\begin{itemize}
+\item https://es.overleaf.com/
+\item https://github.com/
+\end{itemize}
+\end{document}
